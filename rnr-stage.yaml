@@ -8,10 +8,12 @@
 #      top_module: my_name
 #      ports:  {spec_port: your_port}
 #    See the assignment handout for an example.
+
 yaml_version: 1
 stage: fp_addsub
 
 modules:
   fp_addsub:
     source_files:
-      - FP_AddSub/rtl.sv
+      - fp_addsub.sv
+
