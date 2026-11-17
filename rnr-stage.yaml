@@ -12,7 +12,6 @@
 yaml_version: 1
 stage: fp_addsub
 
-
 modules:
   fp_addsub:
     source_files:
